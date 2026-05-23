@@ -7,14 +7,17 @@ Fullstack Developer with a focus on backend logic and clean code. Skilled in HTM
 HTML | CSS | JavaScript |	TypeScript | React.js | Next.js | Node.js | VS Code | Vite | Figma | Git | C# | .NET | OOP | LINQ | SOLID | Visual Studio
 
 💻Featured Projects:
+
 ⚡[CoffeeJoy](https://milenness.github.io/coffee-joy/)
 Stack: HTML5, CSS3, SASS/SCSS, JavaScript (ES6+), Vite
+
 Web app for a specialty coffee company with a clean, functional interface.
 Features: Product showcase, responsive design, optimized build via Vite.
 Team project | Developer
 
 ⚡[PawFriends](https://ikerom3.github.io/Project-GalaxyTeam/)
 Stack: HTML5, CSS3, SASS/SCSS, JavaScript (ES6+), Vite, Swiper.js, SweetAlert2
+
 Platform for finding and adopting shelter dogs — connecting shelters with future owners.
 Features: Listings browser, image slider, notifications, photo lightbox.
 Team project | Developer
