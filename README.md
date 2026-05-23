@@ -1,6 +1,6 @@
 ## Hi, I'm Oleh Taranov 👋
 😉About me:
-Junior Fullstack Developer | Junior Fullstack Developer | HTML, CSS, JavaScript, TypeScript, React, C#, .Net
+Junior Fullstack Developer | HTML, CSS, JavaScript, TypeScript, React, C#, .Net
 Fullstack Developer with a focus on backend logic and clean code. Skilled in HTML, CSS, JavaScript, React.js, TypeScript, and Node.js. Applying knowledge through real-world projects — continuously strengthening both frontend and backend expertise. Passionate about efficient, well-structured code and driven to grow in web development. Additionally, have self-study experience with C#/.NET — practiced OOP, clean code principles, LINQ, and Git while building console applications.
 
 🧰 Tech Stack:
